@@ -20,13 +20,9 @@ Also found a survey paper [7] on signals and systems in ambulatory blood pressur
 
 There is a research group in Monash University Melbourne led by Dr. Mehmet Yuce that specializes in blood pressure measurement via PPT.
 
-On the 7 <sup>th</sup>
- of March 2018, IEEE Spectrum [8] published an article on Smartphone based blood pressure monitoring via the oscillometric finger pressing method. Dr. Ramakrishna Mukkamala from Michigan State University published a paper [9] detailed the technique. The device produces a blood pressure reading as accurate as finger cuff methods. There is a IEEE standard for Wearable Cuffless Blood Pressure Measuring Devices.
+On the 7 <sup>th</sup> of March 2018, IEEE Spectrum [8] published an article on Smartphone based blood pressure monitoring via the oscillometric finger pressing method. Dr. Ramakrishna Mukkamala from Michigan State University published a paper [9] detailed the technique. The device produces a blood pressure reading as accurate as finger cuff methods. There is a IEEE standard for Wearable Cuffless Blood Pressure Measuring Devices.
 
-On 7
-
-# th
- of Feb 2018, Cardiogram co-founder Johnson Hsieh reported [10]on their software called DeepHeart – a semi-supervised machine learning model to detect diabetes with 85% accuracy. The paper [11] mentioned that the approach was unique.
+On 7 <sup>th</sup> of Feb 2018, Cardiogram co-founder Johnson Hsieh reported [10]on their software called DeepHeart – a semi-supervised machine learning model to detect diabetes with 85% accuracy. The paper [11] mentioned that the approach was unique.
 
 Omron showed its HeartGuide watch at the 2018 CES. It uses a oscillometric method to measure BP.[12] Samsung has the Simband wearable system for research.
 
