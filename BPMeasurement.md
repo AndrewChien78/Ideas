@@ -8,7 +8,7 @@ Some website, papers and documents reviewed.
 
 Journal paper [1] is a good reference for finding out more about blood pressure measurement. Website [2] has a list of BP measurement devices that have been reviewed and found accurate. Website [2] discourages the use of the following type of BP measurement devices:-
 
-- Finger devices – position of limbs and peripheral vasoconstriction affects accuracy.
+- Finger devices â€“ position of limbs and peripheral vasoconstriction affects accuracy.
 - Wrist devices -
 - Community BP measurement devices
 
@@ -20,15 +20,13 @@ Also found a survey paper [7] on signals and systems in ambulatory blood pressur
 
 There is a research group in Monash University Melbourne led by Dr. Mehmet Yuce that specializes in blood pressure measurement via PPT.
 
-On the 7
-
-# th
+On the 7 <sup>th</sup>
  of March 2018, IEEE Spectrum [8] published an article on Smartphone based blood pressure monitoring via the oscillometric finger pressing method. Dr. Ramakrishna Mukkamala from Michigan State University published a paper [9] detailed the technique. The device produces a blood pressure reading as accurate as finger cuff methods. There is a IEEE standard for Wearable Cuffless Blood Pressure Measuring Devices.
 
 On 7
 
 # th
- of Feb 2018, Cardiogram co-founder Johnson Hsieh reported [10]on their software called DeepHeart – a semi-supervised machine learning model to detect diabetes with 85% accuracy. The paper [11] mentioned that the approach was unique.
+ of Feb 2018, Cardiogram co-founder Johnson Hsieh reported [10]on their software called DeepHeart â€“ a semi-supervised machine learning model to detect diabetes with 85% accuracy. The paper [11] mentioned that the approach was unique.
 
 Omron showed its HeartGuide watch at the 2018 CES. It uses a oscillometric method to measure BP.[12] Samsung has the Simband wearable system for research.
 
@@ -38,19 +36,19 @@ Apple has pages that explain how their heart rate app works [14]and also what af
 
 References:
 
-[1]        T. Pickering, &quot;Principles and techniques of blood pressure measurement.,&quot; _Cardiol. Clin._, vol. 28, no. 4, pp. 571–586, 2010.
+[1]        T. Pickering, &quot;Principles and techniques of blood pressure measurement.,&quot; _Cardiol. Clin._, vol. 28, no. 4, pp. 571â€“586, 2010.
 
 [2]        Dabl Educational Trust, &quot;Blood Pressure Monitors - Validation, Papers and Reviews.&quot; [Online]. Available: http://www.dableducational.org/index.html.
 
 [3]        FinaPres Medical System, &quot;PortaPres.&quot; [Online]. Available: http://www.finapres.com/Products/Portapres.
 
-[4]        B. P. M. Imholz _et al._, &quot;Feasibility of ambulatory, continuous 24-hour finger arterial pressure recording,&quot; _Hypertension_, vol. 21, no. 1, pp. 65–73, 1993.
+[4]        B. P. M. Imholz _et al._, &quot;Feasibility of ambulatory, continuous 24-hour finger arterial pressure recording,&quot; _Hypertension_, vol. 21, no. 1, pp. 65â€“73, 1993.
 
 [5]        Wikipedia, &quot;Vasuclar Unloading Technique.&quot; [Online]. Available: https://en.wikipedia.org/wiki/Continuous\_noninvasive\_arterial\_pressure#Vascular\_unloading\_technique.
 
 [6]        V. N. et. Al, &quot;Smart Watches for Physiological Monitoring: A Case Study on Blood Pressure Measurement.&quot;
 
-[7]        D. Buxi, J. M. Redouté, and M. R. Yuce, &quot;A survey on signals and systems in ambulatory blood pressure monitoring using pulse transit time,&quot; _Physiol. Meas._, vol. 36, no. 3, pp. R1–R26, 2015.
+[7]        D. Buxi, J. M. RedoutÃ©, and M. R. Yuce, &quot;A survey on signals and systems in ambulatory blood pressure monitoring using pulse transit time,&quot; _Physiol. Meas._, vol. 36, no. 3, pp. R1â€“R26, 2015.
 
 [8]        E. Waltz, &quot;New Smartphone Sensor Checks Your Blood Pressure,&quot; _IEEE Spectrum_. [Online]. Available: https://spectrum.ieee.org/the-human-os/biomedical/devices/measure-your-blood-pressure-using-just-your-phone.
 
